@@ -1,0 +1,9 @@
+.git/
+node_modules/
+.next/
+apps/*/.next/
+dist/
+out/
+coverage/
+.turbo/
+pnpm-lock.yaml

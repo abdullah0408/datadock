@@ -1,0 +1,3 @@
+module.exports = {
+  "*.{js,jsx,ts,tsx,json,md,css,scss,yml,yaml}": ["prettier --write"],
+};

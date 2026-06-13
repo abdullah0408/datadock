@@ -1,0 +1,19 @@
+{
+  "name": "@datadock/jobs",
+  "version": "0.0.0",
+  "private": true,
+  "license": "SEE LICENSE IN ../../LICENSE",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@datadock/config": "workspace:*",
+    "@datadock/email": "workspace:*",
+    "@datadock/files": "workspace:*",
+    "@datadock/services": "workspace:*"
+  }
+}

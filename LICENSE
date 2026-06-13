@@ -1,0 +1,31 @@
+DataDock Personal Use Source License
+
+Copyright (c) 2026 Abdullah. All rights reserved.
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy,
+modify, and run the Software for personal, educational, evaluation, and
+non-commercial purposes, subject to the following conditions:
+
+1. The copyright notice above and this license notice must be included in all
+   copies or substantial portions of the Software.
+2. You may not sell, sublicense, rent, lease, host as a paid service, or use the
+   Software for commercial purposes without prior written permission from the
+   copyright holder.
+3. You may not remove, obscure, or alter copyright, license, attribution, or
+   ownership notices.
+4. Contributions submitted to this project may be used, modified, and
+   distributed by the copyright holder as part of the Software unless a separate
+   written agreement says otherwise.
+
+Third-party dependencies, tools, frameworks, and libraries remain governed by
+their own licenses. This license applies only to the original DataDock materials
+in this repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, SECURITY, ACCURACY, OR NON-INFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.

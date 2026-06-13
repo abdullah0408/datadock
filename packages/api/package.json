@@ -1,0 +1,19 @@
+{
+  "name": "@datadock/api",
+  "version": "0.0.0",
+  "private": true,
+  "license": "SEE LICENSE IN ../../LICENSE",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@datadock/auth": "workspace:*",
+    "@datadock/config": "workspace:*",
+    "@datadock/domain": "workspace:*",
+    "@datadock/services": "workspace:*"
+  }
+}
